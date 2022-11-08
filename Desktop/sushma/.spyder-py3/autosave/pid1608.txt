@@ -1,0 +1,1 @@
+{'C:\\Users\\SPTINT-13\\chirag\\untitled11.py': 'C:\\Users\\SPTINT-13\\.spyder-py3\\autosave\\untitled11.py'}
