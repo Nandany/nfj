@@ -1,0 +1,27 @@
+<htmL>
+<HEAD>
+<H1ALIGN="CENTER"> POEM </H1>
+</HEAD>
+<BODY BGCOIOR="pink">
+<font=color="green"><face=arial>
+<p> 
+twikle twikle little star <br>
+who  I wonder what you are<br>
+up bow the what so I<br>
+like adiamondin the sky<br>
+</p>
+</font>
+<p aigin= left>
+jony jony yes papa <br>
+eating sugar no papa<br>
+tellin lise no papa<br>
+open your mouth ha ha ha <br>
+</p>
+<p align= right>
+hold fast to dream<br>
+for if dream die<br> 
+life is a broken -winged bird <br>
+that cannot fly<br>
+</p>
+</body>
+</html>

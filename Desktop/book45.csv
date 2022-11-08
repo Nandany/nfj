@@ -1,0 +1,9 @@
+student name,id,sem,age,subject,gender
+sushma,123,5,19,ai,female
+dhanu,456,5,18,ml,female
+kenchi,789,5,18,dl,
+lakshmi,147,5,17,ai,
+prakash,155,5,55,,male
+charan,165,5,31,dl,male
+surya,124,5,22,ai,male
+manju,,,,,female
